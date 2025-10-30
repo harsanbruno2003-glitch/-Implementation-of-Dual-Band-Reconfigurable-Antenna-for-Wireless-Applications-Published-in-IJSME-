@@ -1,0 +1,2 @@
+# -Implementation-of-Dual-Band-Reconfigurable-Antenna-for-Wireless-Applications-Published-in-IJSME-
+Developed a dual-band reconfigurable flexible antenna capable of dynamic frequency switching and tuning for modern wireless applications. This project addresses the growing demand for versatile antennas in mobile devices, IoT, satellite communication, wireless sensor networks, and emerging 5G technologies.
